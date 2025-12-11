@@ -1,13 +1,22 @@
+<<<<<<< HEAD
 # Actividad Fundamental No. 4 - Gestión y Normalización de Datos con Python
 >En este repositorio se muestra el proceso que pasamos para realizar la Actividad Fundamental 4 para la materia Programación para Inteligencia Artificial.
 
 Se seleccionó una base de datos pública para esta tarea, con el objetivo de normalizarla y hacer que sea apta para un entrenamiento de Machine Learning. En este caso, encontramos una base de datos que contenía información sobre la renta de airbnb y se necesió cambiar algunos caracteres y eliminar las columnas que no servían para lograr nuestro objetivo
+=======
+# Actividad Fundamental N.º 6 – Implementación de un Modelo Supervisado en Python
+
+>En este repositorio se muestra el proceso que pasamos para realizar la Actividad Fundamental 6 para la materia Programación para Inteligencia Artificial.
+
+Para esta tarea se seleccionó un dataset público, con el objetivo de limpiarla y normalizarla para que sea apta para un entrenamiento de Machine Learning. En este caso, tenemos un dataset que contiene información médica de pacientes. Generamos un modelo que logra predecir el coste médico de la persona.
+>>>>>>> af6/main
 
 ## Requisitos e Instalación 🚀
 Para este trabajo se utilizó Python 3 y las siguientes librerías:
 - ```pandas```
 - ```numpy```
 - ```scikit-learn```
+<<<<<<< HEAD
 
 ## Pasos para Clonar
 En la terminal de git agregar los siguientes comandos:
@@ -34,6 +43,10 @@ El sistema se ejecuta mediante el script principal, main.py, ejecutando la sigui
 Archivo de Salida
 Al finalizar la ejecución, se generará el archivo:
 **airbnb_normalizado.csv**
+=======
+- ```matplotlib```
+- ```seaborn```
+>>>>>>> af6/main
 
 ## Autores 👥
 - Orlando Alvarado Vargas
