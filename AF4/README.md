@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Actividad Fundamental No. 4 - Gestión y Normalización de Datos con Python
 >En este repositorio se muestra el proceso que pasamos para realizar la Actividad Fundamental 4 para la materia Programación para Inteligencia Artificial.
 
